@@ -1,6 +1,5 @@
 # Spring Boot with Kibana demo
 
-![Code Soapbox logo](readme-images/logo.png)
 
 This project is a sample Spring Boot application which sends its logs to Logstash, which in turn sends them to
 Elasticsearch, making them viewable in Kibana.
